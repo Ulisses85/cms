@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { NbSidebarModule, NbLayoutModule, NbSidebarService } from '@nebular/theme';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Title } from '@angular/platform-browser';
 
